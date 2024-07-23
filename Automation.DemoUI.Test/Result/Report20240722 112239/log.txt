@@ -1,0 +1,14 @@
+2024-07-22 11:22:39.299 +05:30 [DBG] ********************************************************************************
+2024-07-22 11:22:39.302 +05:30 [INF] ********************************************************************************
+2024-07-22 11:22:39.302 +05:30 [INF] Configuration |RUN PARAMETERS
+2024-07-22 11:22:39.302 +05:30 [INF] ********************************************************************************
+2024-07-22 11:22:39.302 +05:30 [INF] Configuration|BROWSER TYPE: chrome
+2024-07-22 11:22:39.302 +05:30 [INF] Configuration|GRID HUB URL: https://localhost:4444/wd/hub
+2024-07-22 11:22:39.302 +05:30 [INF] Configuration|STEP SCREENSHOT: False
+2024-07-22 11:22:39.302 +05:30 [INF] Configuration|EXTENT REPORT PORTAL URL: 
+2024-07-22 11:22:39.303 +05:30 [INF] Configuration|EXTENT REPORT LOCALLY: False
+2024-07-22 11:22:39.303 +05:30 [INF] Configuration|LOG LEVEL: Debug
+2024-07-22 11:22:39.303 +05:30 [INF] Configuration|DATA SET LOCATION: C:\Users\poonam\source\repos\Automation.Framework.Core.WebUI\Automation.DemoUI.Test\DataSet
+2024-07-22 11:22:39.303 +05:30 [INF] Configuration|DOWNLOADED LOCATION: C:\Users\poonam\source\repos\Automation.Framework.Core.WebUI\Automation.DemoUI.Test\DataSet
+2024-07-22 11:22:39.303 +05:30 [INF] ********************************************************************************
+2024-07-22 11:22:39.303 +05:30 [INF] ********************************************************************************

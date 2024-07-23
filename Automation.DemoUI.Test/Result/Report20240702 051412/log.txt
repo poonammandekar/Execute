@@ -1,0 +1,1 @@
+2024-07-02 05:14:12.133 +05:30 [ERR] File does not exists. The configuration file 'frameworkSettings.json' was not found and is not optional. The expected physical path was 'C:\Users\poonam\source\repos\Automation.Framework.Core.WebUI\Automation.DemoUI.Test\bin\Debug\net8.0\Resources\frameworkSettings.json'.
